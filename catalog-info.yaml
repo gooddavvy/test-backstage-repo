@@ -1,1 +1,9 @@
-# Empty for now
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: generated-552b98460dcb2f463190f7e4088debb448af91a7
+  annotations:
+    backstage.io/techdocs-ref: value
+spec:
+  type: url
+  owner: user:default/guest
