@@ -8,7 +8,7 @@ metadata:
   annotations:
     example.com/service-discovery: artistweb
     circleci.com/project-slug: github/example-org/artist-website
-    backstage.io/techdocs-ref: "Placeholder" # for now
+    backstage.io/managed-by-location: url:http://github.com/gooddavvy/test-backstage-repo/blob/main/catalog-info.yaml
   tags:
     - java
   links:
